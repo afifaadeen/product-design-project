@@ -120,4 +120,4 @@ Damage percentages: `good` 0%, `stained` 30%, `torn` 60%, `incomplete` 100%.
 
 ## Authors
 
-Add your team members' names here.
+Afifa Naidile Adib
